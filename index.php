@@ -561,16 +561,16 @@ if (isset($_SESSION["user_id"])) {
 
                 <ul class="footer__links">
                     <li>
-                        <a href="#" class="footer__link">Road bikes</a>
+                        <a href="#" class="footer__link">Watches</a>
                     </li>
                     <li>
-                        <a href="#" class="footer__link">Mountain bikes</a>
+                        <a href="#" class="footer__link">Watches</a>
                     </li>
                     <li>
-                        <a href="#" class="footer__link">Electric</a>
+                        <a href="#" class="footer__link">Watches</a>
                     </li>
                     <li>
-                        <a href="#" class="footer__link">Accesories</a>
+                        <a href="#" class="footer__link">Watches</a>
                     </li>
                 </ul>
             </div>
@@ -590,7 +590,7 @@ if (isset($_SESSION["user_id"])) {
             </div>
         </div>
 
-        <span class="footer__copy">&#169; Bedimcode. All rigths reserved</span>
+        <span class="footer__copy">&#169; AyushBikramGhimire. All rigths reserved</span>
     </footer>
 
     <!--=============== SCROLL UP ===============-->
